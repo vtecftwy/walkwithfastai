@@ -1,6 +1,8 @@
 # Walk with fastai
 
+This is my forked version of Zachary Mueller's excellent tutorials on fastai.
 
+---------
 
 ## What is this project?
 
